@@ -1,8 +1,8 @@
-Here’s a clean, modern, and visually appealing `README.md` for your **Tetris Console Game** — optimized for GitHub and perfect for showcasing your project:
+
 
 ---
 
-# 🎮 Tetris Console Game in C++
+# 🎮 Tetris Game in C++
 
 A **Tetris-style game** built in **C++**, running entirely in the **Windows Console**.  
 Rotate, move, and drop Tetrominoes to clear lines and stack up your high score!
@@ -71,6 +71,8 @@ tetris.exe
 **Yagnik N. Patel**  
 📧 [yagnikptl22@gmail.com](mailto:yagnikptl22@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/yagnik-n-patel)  
-🧭 *Explorer | ICT Engineer | C++ & DSA Enthusiast | Photographer*
+🎉 Enjoy the challenge, relive the retro vibes, and have fun playing the Tetris Console Game! 🧩👾
+
+
 
 ---
