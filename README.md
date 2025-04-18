@@ -70,7 +70,8 @@ tetris.exe
 
 **Yagnik N. Patel**  
 📧 [yagnikptl22@gmail.com](mailto:yagnikptl22@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/yagnik-n-patel)  
+🔗 [LinkedIn](https://www.linkedin.com/in/yagnik-n-patel) 
+
 🎉 Enjoy the challenge, relive the retro vibes, and have fun playing the Tetris Console Game! 🧩👾
 
 
